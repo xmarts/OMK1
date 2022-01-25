@@ -1,0 +1,4 @@
+[submodule "xmarts/OMK1"]
+	path = xmarts/OMK1
+	url = git@github.com:xmarts/OMK1.git
+	branch = main
